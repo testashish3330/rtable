@@ -1,5 +1,5 @@
 {
-  "name": "rtables",
+  "name": "rtable.json",
   "description": "Two test React components",
   "author": "Ashish",
   "keywords": ["react", "components", "ui"],
@@ -11,7 +11,7 @@
   "files": [ "dist", "README.md" ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/testashish3330/rtable.git"
+    "url": "git+https://github.com/testashish3330/rtable.json.git"
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
