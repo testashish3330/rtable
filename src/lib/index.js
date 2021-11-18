@@ -1,3 +1,3 @@
-import RTable from './components/rtable';
+import RTable from "./components/rtable";
 
-export { RTable }; 
+export { RTable }
